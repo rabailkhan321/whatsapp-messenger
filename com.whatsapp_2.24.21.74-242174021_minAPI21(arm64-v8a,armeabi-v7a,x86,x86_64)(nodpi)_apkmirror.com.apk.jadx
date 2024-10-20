@@ -1,0 +1,92 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "exoplayer2.av1.src",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "android.support.v4",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "javax.inject",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "kotlin.coroutines.jvm.internal",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "kotlinx.coroutines",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "net.minidev.json.annotate",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "org",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "redex",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "app",
+      "android.support.v4",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "android.support.v4.app.RemoteActionCompatParcelizer",
+      "app",
+      "android.support.v4",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "airbnb.lottie",
+      "com",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ],
+    [
+      "com.airbnb.lottie.LottieAnimationView",
+      "airbnb.lottie",
+      "com",
+      "Source code",
+      "com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "C:\\Users\\92300\\AppData\\Local\\skylot\\jadx\\cache\\projects\\com.whatsapp_2.24.21.74-242174021_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com-1dc383e3bbffcbaa8f5252ec12d4c89e",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
